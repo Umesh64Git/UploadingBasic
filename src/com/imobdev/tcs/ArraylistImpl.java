@@ -14,6 +14,7 @@ public class ArraylistImpl {
 		list.add("rajesh");
 		list.add("Ashwni");
 		list.add("Umesh");
+		list.add("Tanmay");
 		
 		System.out.println(list);
 	}
