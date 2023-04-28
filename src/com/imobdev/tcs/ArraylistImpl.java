@@ -16,7 +16,9 @@ public class ArraylistImpl {
 		list.add("Umesh");
 		list.add("Tanmay");
 		
-		System.out.println(list);
+		for(String s :list) {
+			System.out.println(s);
+		}
 	}
 
 }
